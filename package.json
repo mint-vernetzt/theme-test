@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mint-vernetzt/theme-test/issues"
   },
-  "homepage": "https://github.com/mint-vernetzt/theme-test#readme"
+  "homepage": "https://github.com/mint-vernetzt/theme-test#readme",
+  "dependencies": {
+    "daisyui": "^2.6.3"
+  }
 }
